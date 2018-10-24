@@ -127,6 +127,56 @@ Fixed Bugs:
 Known Issues:
 - ?
 
+## v4.0
+
+Release date: 28.04.2016
+
+Reference: https://web.archive.org/web/20160315070513/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+## v3.21
+
+Release date: 04.02.2015
+
+Reference: https://web.archive.org/web/20160315070513/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+Support:
+- Last version with support of Windows 2008 or Windows Server 2003
+
+## v3.2
+
+Release date: 04.01.2016
+
+Reference: https://web.archive.org/web/20160122134908/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+Support:
+- Last version to officially support Windows 2008 R2 or Windows Server 2003
 
 ## v3.10
 
@@ -148,6 +198,36 @@ Known Issues:
 Release date: 20.04.2015
 
 Reference: https://web.archive.org/web/20150612220509/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+## v2.0
+
+Release date: 19.01.2015
+
+Reference: https://web.archive.org/web/20150315221501/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ImpHash calculation https://www.fireeye.com/blog/threat-research/2014/01/tracking-malware-import-hashing.html
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+## v1.01
+
+Release date: 18.08.2014
+
+Reference: https://web.archive.org/web/20141228153406/http://technet.microsoft.com:80/en-us/sysinternals/dn798348
 
 New Features: 
 - ?
