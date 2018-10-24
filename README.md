@@ -51,7 +51,7 @@ Known Issues:
 
 ## v6.1
 
-Release date: 12.09.2017
+Release date: 11.09.2017
 
 Reference: https://twitter.com/cyb3rops/status/907690390719004672
 
@@ -63,6 +63,21 @@ Fixed Bugs:
 
 Known Issues:
 - Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
+
+## v6.02
+
+Release date: 22.05.2017
+
+Reference: https://web.archive.org/web/20170817004219/https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
 
 ## v6.0
 
@@ -80,3 +95,65 @@ Fixed Bugs:
 
 Known Issues:
 - Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
+
+## v5.0
+
+Release date: 18.11.2016 (?)
+
+Reference: https://twitter.com/danielhbohannon/status/799604709137010688
+
+New Features: 
+- File creation events (ID 11)
+- Registry add/delete/rename/value set events (ID 12)
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+## v4.12
+
+Release date: 29.08.2016
+
+Reference: https://web.archive.org/web/20161019214041/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+
+## v3.10
+
+Release date: 20.06.2015
+
+Reference: https://web.archive.org/web/20150905143944/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
+
+## v3.0
+
+Release date: 20.04.2015
+
+Reference: https://web.archive.org/web/20150612220509/https://technet.microsoft.com/en-us/sysinternals/dn798348
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- ?
