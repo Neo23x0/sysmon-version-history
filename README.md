@@ -1,4 +1,4 @@
-# sysmon-version-history
+# Sysmon-Version-History
 An Inofficial Sysmon Version History
 
 ## v8.0
@@ -32,7 +32,7 @@ Fixed Bugs:
 Known Issues:
 - Some BSOD on Windows 7 x64 upgrades https://twitter.com/Tecko921/status/948588631144452097
 
-## v6.20
+## v6.2
 
 Release date: 19.11.2017
 
@@ -48,3 +48,35 @@ Fixed Bugs:
 
 Known Issues:
 - None
+
+## v6.1
+
+Release date: 12.09.2017
+
+Reference: https://twitter.com/cyb3rops/status/907690390719004672
+
+New Features: 
+- New WMI monitoring event IDs: 19, 20, 21
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
+
+## v6.0
+
+Release date: 17.02.2017
+
+Reference: https://betanews.com/2017/02/17/sysinternals-unveils-sysmon-6-0/
+
+New Features: 
+- Named pipe events (ID 17 "Pipe Created" and ID 18 "Pipe Connected")
+- Configuration changes logged as separate event
+- Dump Sysmons configuration scheme (-s)
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
