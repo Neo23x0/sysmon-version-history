@@ -18,6 +18,22 @@ Fixed Bugs:
 Known Issues:
 - None
 
+## v7.03
+
+Release date: 14.05.2018
+
+Reference: https://blogs.technet.microsoft.com/sysinternals/2018/05/14/sysmon-v7-03/
+
+New Features: 
+- does not hash files larger than 2GB to avoid causing performance issues with SQL Server's large alternate data streams it places on database files
+
+Fixed Bugs: 
+- fixes a service executable crash that could result from long file names
+- Process tracking callbacks
+
+Known Issues:
+- performance issues with SQL Server's large alternate data streams 
+
 ## v7.02
 
 Release date: 30.04.2018
@@ -32,7 +48,7 @@ Fixed Bugs:
 - Process tracking callbacks
 
 Known Issues:
-- ?
+- performance issues with SQL Server's large alternate data streams 
 
 ## v7.01
 
@@ -48,7 +64,7 @@ Fixed Bugs:
 - bug that prevented registry keys from being reported with abbreviated root key names (e.g. HKLM)
 
 Known Issues:
-- ?
+- performance issues with SQL Server's large alternate data streams 
 
 ## v7.0
 
@@ -65,6 +81,7 @@ Fixed Bugs:
 
 Known Issues:
 - Some BSOD on Windows 7 x64 upgrades https://twitter.com/Tecko921/status/948588631144452097
+- performance issues with SQL Server's large alternate data streams 
 
 ## v6.2
 
@@ -87,13 +104,13 @@ Known Issues:
 
 Release date: 11.09.2017
 
-Reference: https://twitter.com/cyb3rops/status/907690390719004672
+Reference: https://blogs.technet.microsoft.com/sysinternals/2017/09/12/sysinternals-update-sysmon-v6-1-process-monitor-v3-4-autoruns-v13-8-accesschk-v6-11/
 
 New Features: 
-- New WMI monitoring event IDs: 19, 20, 21
+- monitoring of WMI filters and consumers (ID 19, ID 20, ID 21)
 
 Fixed Bugs:
-- ?
+- fixes a bug in image load filtering
 
 Known Issues:
 - Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
@@ -132,12 +149,13 @@ Known Issues:
 
 Release date: 17.02.2017
 
-Reference: https://betanews.com/2017/02/17/sysinternals-unveils-sysmon-6-0/
+Reference: https://blogs.technet.microsoft.com/sysinternals/2017/02/17/update-sysmon-v6-autoruns-v13-7-accesschk-v6-1-process-monitor-v3-32-process-explorer-v16-2-livekd-v5-61-and-bginfo-v4-21/
 
 New Features: 
 - Named pipe events (ID 17 "Pipe Created" and ID 18 "Pipe Connected")
 - Configuration changes logged as separate event
 - Dump Sysmons configuration scheme (-s)
+- interprets and displays registry paths in their common format
 
 Fixed Bugs:
 - ?
