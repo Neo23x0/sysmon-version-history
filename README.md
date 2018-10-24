@@ -4,6 +4,7 @@ An Inofficial Sysmon Version History
 ## v8.0
 
 Release date: 06.07.2018
+
 Reference: https://twitter.com/markrussinovich/status/1015017015768113152
 
 New Features: 
@@ -18,6 +19,7 @@ Known Issues:
 ## v7.0
 
 Release date: 02.01.2018
+
 Reference: https://twitter.com/markrussinovich/status/948294964378660864
 
 New Features: 
@@ -33,6 +35,7 @@ Known Issues:
 ## v6.20
 
 Release date: 19.11.2017
+
 Reference: https://www.darkoperator.com/blog/2017/11/24/operational-look-at-sysinternals-sysmon-620-update
 
 New Features: 
