@@ -145,6 +145,23 @@ Fixed Bugs:
 Known Issues:
 - ?
 
+## v6.01
+
+Release date: ?
+
+Reference: https://www.reddit.com/r/AskNetsec/comments/7u3koo/sysmon_blue_screen_of_death/
+
+New Features: 
+- ?
+
+Fixed Bugs:
+- ?
+
+Known Issues:
+- https://www.reddit.com/r/AskNetsec/comments/7u3koo/sysmon_blue_screen_of_death/
+- Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
+- https://social.technet.microsoft.com/Forums/en-US/36adab01-b1dd-41ff-866f-b3e3b611d842/sysmon-v60-bugcheck?forum=miscutils
+
 ## v6.0
 
 Release date: 17.02.2017
@@ -161,7 +178,9 @@ Fixed Bugs:
 - ?
 
 Known Issues:
+- https://www.reddit.com/r/AskNetsec/comments/7u3koo/sysmon_blue_screen_of_death/
 - Issue with Windows Server 2008 (affects all newer versions of Sysmon) https://social.technet.microsoft.com/Forums/en-US/28325d60-5647-48ec-977b-73608ff2a62a/sysmon-61?forum=windowsinternals
+- https://social.technet.microsoft.com/Forums/en-US/36adab01-b1dd-41ff-866f-b3e3b611d842/sysmon-v60-bugcheck?forum=miscutils
 
 ## v5.0
 
@@ -177,7 +196,8 @@ Fixed Bugs:
 - ?
 
 Known Issues:
-- ?
+- https://twitter.com/felixw3000/status/800030486189871104
+- https://twitter.com/PhantomofMobile/status/801132296409448448
 
 ## v4.12
 
@@ -202,10 +222,11 @@ Release date: 28.04.2016
 Reference: https://web.archive.org/web/20160315070513/https://technet.microsoft.com/en-us/sysinternals/dn798348
 
 New Features: 
-- ?
+- more powerful filtering capabilities, allowing for both include and exclude rules to be specified for specific events types
+- complex matching on different event fields
 
 Fixed Bugs:
-- ?
+- None
 
 Known Issues:
 - ?
