@@ -1,7 +1,8 @@
 # Sysmon-Version-History
-An Inofficial Sysmon Version History
 
-The changelog was composed with the help of the technet blog, the Internet wayback machine and google.
+An Inofficial Sysmon Changelog
+
+This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
 ## v8.0
 
