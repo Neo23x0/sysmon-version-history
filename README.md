@@ -7,6 +7,8 @@ The changelog was composed with the help of the technet blog, the Internet wayba
 
 Release date: 06.07.2018
 
+Config schema version: 4.1
+
 Reference: https://twitter.com/markrussinovich/status/1015017015768113152
 
 New Features: 
@@ -21,6 +23,8 @@ Known Issues:
 ## v7.03
 
 Release date: 14.05.2018
+
+Config schema version: 4.0
 
 Reference: https://blogs.technet.microsoft.com/sysinternals/2018/05/14/sysmon-v7-03/
 
@@ -38,6 +42,8 @@ Known Issues:
 
 Release date: 30.04.2018
 
+Config schema version: 4.0
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2018/04/30/sysmon-v7-02/
 
 New Features: 
@@ -54,6 +60,8 @@ Known Issues:
 
 Release date: 30.04.2018
 
+Config schema version: 4.0
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2018/04/30/sysmon-v7-02/
 
 New Features: 
@@ -69,6 +77,8 @@ Known Issues:
 ## v7.0
 
 Release date: 02.01.2018
+
+Config schema version: 4.0
 
 Reference: https://twitter.com/markrussinovich/status/948294964378660864
 
@@ -87,6 +97,8 @@ Known Issues:
 
 Release date: 22.11.2017
 
+Config schema version: 3.4
+
 Reference: https://www.darkoperator.com/blog/2017/11/24/operational-look-at-sysinternals-sysmon-620-update
 
 New Features: 
@@ -104,6 +116,8 @@ Known Issues:
 
 Release date: 11.09.2017
 
+Config schema version: 3.4
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2017/09/12/sysinternals-update-sysmon-v6-1-process-monitor-v3-4-autoruns-v13-8-accesschk-v6-11/
 
 New Features: 
@@ -118,6 +132,8 @@ Known Issues:
 ## v6.03
 
 Release date: 17.06.2017
+
+Config schema version: 3.3
 
 Reference: https://blogs.technet.microsoft.com/sysinternals/2017/06/17/sysinternals-update-sysmon-v6-03/
 
@@ -134,6 +150,8 @@ Known Issues:
 
 Release date: 22.05.2017
 
+Config schema version: 3.3
+
 Reference: https://web.archive.org/web/20170817004219/https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
 
 New Features: 
@@ -148,6 +166,8 @@ Known Issues:
 ## v6.01
 
 Release date: ?
+
+Config schema version: 3.3
 
 Reference: https://www.reddit.com/r/AskNetsec/comments/7u3koo/sysmon_blue_screen_of_death/
 
@@ -165,6 +185,8 @@ Known Issues:
 ## v6.0
 
 Release date: 17.02.2017
+
+Config schema version: 3.3
 
 Reference: https://blogs.technet.microsoft.com/sysinternals/2017/02/17/update-sysmon-v6-autoruns-v13-7-accesschk-v6-1-process-monitor-v3-32-process-explorer-v16-2-livekd-v5-61-and-bginfo-v4-21/
 
@@ -186,6 +208,8 @@ Known Issues:
 
 Release date: 18.11.2016 (?)
 
+Config schema version: 3.2
+
 Reference: https://twitter.com/danielhbohannon/status/799604709137010688
 
 New Features: 
@@ -203,6 +227,8 @@ Known Issues:
 
 Release date: 29.08.2016
 
+Config schema version: 3.1
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2016/08/29/update-sysmon-v4-12-autologon-v3-1-sigcheck-v2-54-process-monitor-v3-31/
 
 New Features: 
@@ -219,6 +245,8 @@ Known Issues:
 
 Release date: 28.04.2016
 
+Config schema version: 3.0
+
 Reference: https://web.archive.org/web/20160315070513/https://technet.microsoft.com/en-us/sysinternals/dn798348
 
 New Features: 
@@ -234,6 +262,8 @@ Known Issues:
 ## v3.21
 
 Release date: 04.02.2015
+
+Config schema version: 2.0
 
 Reference: https://web.archive.org/web/20160315070513/https://technet.microsoft.com/en-us/sysinternals/dn798348
 
@@ -253,6 +283,8 @@ Support:
 
 Release date: 04.01.2016
 
+Config schema version: 2.0
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2016/01/05/update-sigcheck-v2-4-sysmon-v3-2-process-explorer-v16-1-autoruns-v13-51-accesschk-v6-01/
 
 New Features: 
@@ -271,6 +303,8 @@ Support:
 
 Release date: 26.10.2015
 
+Config schema version: 2.0
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2015/10/26/update-autoruns-v13-5-sigcheck-v2-3-rammap-v1-4-bginfo-v4-21-sysmon-v3-11-adinsight-v1-2/
 
 New Features: 
@@ -287,6 +321,8 @@ Known Issues:
 
 Release date: 20.06.2015
 
+Config schema version: 2.0
+
 Reference: https://blogs.technet.microsoft.com/sysinternals/2015/07/22/update-sysmon-v3-1-logonsessions-v1-3-vmmap-v3-21/
 
 New Features: 
@@ -302,6 +338,8 @@ Known Issues:
 ## v3.0
 
 Release date: 20.04.2015
+
+Config schema version: 2.0
 
 Reference: https://blogs.technet.microsoft.com/sysinternals/2015/04/20/update-sysmon-v3-0-autornus-v13-3-regjump-v1-1-process-monitor-v3-11/
 
