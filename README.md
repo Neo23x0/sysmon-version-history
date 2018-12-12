@@ -4,6 +4,25 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v8.2
+
+Release date: 11.12.2018
+
+Config schema version: 4.1
+
+Reference: https://blogs.technet.microsoft.com/sysinternals/2018/12/09/autoruns-v13-93-handle-v4-21-process-explorer-v16-22-sdelete-v2-02-sigcheck-v2-71-sysmon-v8-02-and-vmmap-v3-25/
+
+New Features: 
+- None
+
+Fixed Bugs:
+- fixes several filtering bugs
+- resolves a handle leak and high CPU usage for certain filters when on Windows 7 and Windows Server 2008
+- fixes a bug that could cause the service process to crash
+
+Known Issues:
+- None
+
 ## v8.0
 
 Release date: 06.07.2018
