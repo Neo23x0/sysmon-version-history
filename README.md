@@ -4,7 +4,7 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
-## v8.2
+## v8.02
 
 Release date: 11.12.2018
 
