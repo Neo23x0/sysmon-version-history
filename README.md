@@ -4,6 +4,23 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v8.04
+
+Release date: 18.12.2018
+
+Config schema version: 4.1
+
+Reference: https://twitter.com/olafhartong/status/1070581799439474689
+
+New Features: 
+- None
+
+Fixed Bugs:
+- fixes an error with some configurations that caused severe blind spots
+
+Known Issues:
+- None
+
 ## v8.02
 
 Release date: 11.12.2018
@@ -21,7 +38,7 @@ Fixed Bugs:
 - fixes a bug that could cause the service process to crash
 
 Known Issues:
-- None
+- issue with some configurations that caused severe blind spots
 
 ## v8.0
 
