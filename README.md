@@ -10,7 +10,9 @@ Release date: 18.12.2018
 
 Config schema version: 4.1
 
-Reference: https://twitter.com/olafhartong/status/1070581799439474689
+Reference: 
+- https://twitter.com/olafhartong/status/1070581799439474689
+- https://twitter.com/analyze_v/status/1072923678873022464 
 
 New Features: 
 - None
@@ -38,7 +40,7 @@ Fixed Bugs:
 - fixes a bug that could cause the service process to crash
 
 Known Issues:
-- issue with some configurations that caused severe blind spots
+- issue with some configurations that caused severe blind spots https://twitter.com/analyze_v/status/1072923678873022464
 
 ## v8.0
 
