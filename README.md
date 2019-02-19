@@ -4,6 +4,24 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v9.0
+
+Release date: 18.02.2019
+
+Config schema version: 4.2
+
+Reference: 
+- None
+
+New Features: 
+- new "rule groups" that support AND or OR matching across rules
+
+Fixed Bugs:
+- None
+
+Known Issues:
+- None
+
 ## v8.04
 
 Release date: 18.12.2018
