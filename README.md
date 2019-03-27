@@ -4,6 +4,24 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v9.01
+
+Release date: 18.03.2019
+
+Config schema version: 4.2
+
+Reference: 
+- None
+
+New Features: 
+- None
+
+Fixed Bugs:
+- Unknown
+
+Known Issues:
+- None
+
 ## v9.0
 
 Release date: 18.02.2019
