@@ -11,13 +11,14 @@ Release date: 18.03.2019
 Config schema version: 4.2
 
 Reference: 
-- None
+- https://twitter.com/olafhartong/status/1110979769586327552
+- https://twitter.com/analyze_v/status/1112809459213107200
 
 New Features: 
 - None
 
 Fixed Bugs:
-- Unknown
+- Regression fix for exclusions due to the introduction of rule groups
 
 Known Issues:
 - None
