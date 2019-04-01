@@ -17,7 +17,7 @@ New Features:
 - None
 
 Fixed Bugs:
-- Unknown
+- Fixed issue where sometimes configurations did not apply
 
 Known Issues:
 - None
