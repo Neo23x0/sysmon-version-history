@@ -4,6 +4,24 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v10.0
+
+Release date: 11.06.2019
+
+Config schema version: 4.21
+
+Reference: 
+- https://twitter.com/holisticinfosec/status/1138676889227186176
+
+New Features: 
+- DNS Query logging (Event ID 22)
+
+Fixed Bugs:
+- None
+
+Known Issues:
+- None
+
 ## v9.01
 
 Release date: 18.03.2019
