@@ -4,6 +4,46 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v10.1
+
+Release date: 14.06.2019
+
+Config schema version: 4.21
+
+Reference: 
+- None
+
+New Features: 
+- None
+
+Fixed Bugs:
+- fixes bugs ???
+
+Known Issues:
+- None
+
+## v10.0
+
+Release date: 12.06.2019
+
+Config schema version: 4.21
+
+Reference: 
+- https://blogs.technet.microsoft.com/sysinternals/2019/06/12/sysmon-v10-0-autoruns-v13-95-vmmap-v3-26/
+- https://twitter.com/holisticinfosec/status/1138676889227186176
+
+New Features: 
+- DNS Query logging (Event ID 22)
+- reports OriginalFileName in process create and load image events
+- adds ImageName to named pipe events
+- logs pico process creates and terminates
+
+Fixed Bugs:
+- fixes several bugs
+
+Known Issues:
+- None
+
 ## v10.0
 
 Release date: 11.06.2019
@@ -15,9 +55,12 @@ Reference:
 
 New Features: 
 - DNS Query logging (Event ID 22)
+- reports OriginalFileName in process create and load image events
+- adds ImageName to named pipe events
+- logs pico process creates and terminates
 
 Fixed Bugs:
-- None
+- fixes several bugs
 
 Known Issues:
 - None
