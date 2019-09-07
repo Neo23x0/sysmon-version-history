@@ -4,6 +4,42 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v10.4
+
+Release date: 06.09.2019
+
+Config schema version: 4.22
+
+Reference: 
+- https://techcommunity.microsoft.com/t5/Sysinternals-Blog/Sysmon-10-4-Rule-Enhancements/ba-p/840631
+
+New Features: 
+- None
+
+Fixed Bugs:
+- fixes bugs ???
+
+Known Issues:
+- None
+
+## v10.2
+
+Release date: ?
+
+Config schema version: 4.21
+
+Reference: 
+- None
+
+New Features: 
+- None
+
+Fixed Bugs:
+- fixes bugs ???
+
+Known Issues:
+- None
+
 ## v10.1
 
 Release date: 14.06.2019
