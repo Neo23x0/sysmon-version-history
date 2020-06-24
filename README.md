@@ -4,6 +4,28 @@ An Inofficial Sysmon Changelog
 
 This changelog was composed with the help of the technet blog articles, the Internet wayback machine and Google.
 
+## v11.10
+
+Release date: 24.06.2020
+
+Config schema version: 4.32
+
+Reference: 
+- https://www.youtube.com/embed/HCZlJDKUqn0?autoplay=0
+
+New Features: 
+- File Delete
+
+Fixed Bugs:
+- fixes bugs ???
+
+Known Issues:
+- None
+
+## Missed Version 
+
+... some missed versions
+
 ## v10.4
 
 Release date: 06.09.2019
